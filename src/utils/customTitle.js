@@ -4,7 +4,7 @@ import { Helmet } from "react-helmet";
 function CustomTitle({ title }) {
   return (
     <Helmet>
-      <title>Jericho | {title}</title>
+      <title>Arch X | {title}</title>
     </Helmet>
   );
 }
