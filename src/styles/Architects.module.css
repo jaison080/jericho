@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 3rem;
+  padding-top: 7rem;
+}
+.title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #fbcd08;
+  font-family: var(--secondary-font);
+  margin-bottom: 1rem;
+}
+.cards_container {
+  padding-top: 2rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
