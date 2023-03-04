@@ -2,7 +2,7 @@ import ArchitectCard from "@/components/ArchitectCard/ArchitectCard";
 import Navbar from "@/components/Navbar/Navbar";
 import CustomTitle from "@/utils/customTitle";
 import React from "react";
-import styles from "../styles/Architects.module.css";
+import styles from "../../styles/Architects.module.css";
 
 function Architects() {
   return (

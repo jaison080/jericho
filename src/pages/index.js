@@ -1,10 +1,18 @@
-import Navbar from "@/components/Navbar/Navbar";
-import styles from "@/styles/Home.module.css";
+import { About, Footer, Hero, MoreDetails, Navbar } from "@/components";
+import CustomTitle from "@/utils/customTitle";
+import React from "react";
 
-export default function Home() {
+function HomePage() {
   return (
     <>
+      <CustomTitle title="Home" />
       <Navbar />
+      <Hero />
+      <About />
+      <MoreDetails />
+      <Footer />
     </>
   );
 }
+
+export default HomePage;
