@@ -26,6 +26,26 @@ ArchX will be the first ever platform which is dedicated for architect hiring an
 3. [Durga Santhosh](https://github.com/DurgaSanthosh)
 4. [Jagannath E Shahi](https://github.com/Jagannathes)
 
+## Timeline
+
+### Day 1:
+
+8:00 - Started Pooling Ideas<br>
+12:00 - Fixed Idea<br>
+1:00 - Added Project <br>
+2:00 - Made some background research <br>
+3:00 - Started Frontend<br>
+5:00 - Landing Page <br>
+9:00 - Profile Page <br>
+10:00 - Started Backend<br>
+
+### Day 2
+
+9:00 - Home Page <br>
+12:00 - Completed Frontend <br>
+2:00  - Working on Backend <br>
+4:00 - Submitted
+
 ## 🔧 Project UI:
 
 ![Screenshot from 2023-03-05 20-16-07](https://user-images.githubusercontent.com/93505829/222967668-78344fd1-9065-4780-a72c-0a9f17088213.png)
