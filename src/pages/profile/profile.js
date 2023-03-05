@@ -1,6 +1,7 @@
 import { Navbar } from "@/components";
 import React from "react";
-import { FaFacebook, FaInstagram, FaTwitter, FaYoutube } from "react-icons/fa";
+import { FaFacebook, FaInstagram, FaTwitter, FaYoutube, } from "react-icons/fa";
+import { FaHeart } from 'react-icons/fa';
 import styles from "../../styles/Architect.module.css";
 
 function Profile() {
@@ -23,9 +24,26 @@ function Profile() {
             <p>UX Designer, coffee enthusiast, and dog lover, looking to collabote in house designs. Currently building beautiful interfaces at XYZ Agency. Let's connect and collaborate!</p>
           </div>
           <div className={styles.architect_details__social}>
-            <button className={styles.btn}>Follow</button>
-            <button className={styles.btn}>Reach out</button>
+            <button className={styles.btn}>Followers</button>
+            <button className={styles.btn}>Following</button>
           </div>
+          <div className={styles.architect_details__social}>
+            <h2>Liked projects</h2>
+          </div>
+          
+          <div className={styles.project}>
+              <div className={styles.project__image}>
+                <img
+                  src="https://images.unsplash.com/photo-1536599018102-9f803c140fc1?auto=format&fit=crop&w=440&h=220&q=60"
+                  alt=""
+                />
+              </div>
+              <div className={styles.project__info}>
+                <h3>Project Name</h3>
+                  <FaHeart />
+                <p>Project Description</p>
+              </div>
+            </div>
           <div className={styles.architect_details__social}>
             <FaFacebook />
             <FaInstagram />
