@@ -12,6 +12,8 @@ Link : http://jericho-five.vercel.app
 
 ## Problem Statement
 
+Nowadays it’s very hard to find an architect who is truly inspired by the aesthetic virtue of customers, it’s more like a trial and error procedure until we find the right one that suits our aesthetic sense. So what if there is a platform that can make this tedious task simple. Our platform envision easier and faster access to architects and plans for the customer’s dream home.Users can choose from a variety of different options can see the previous works they had done, architects get tagged or will be provided with badges according to their expertise in each type of construction so that if a user needs a house that is derived from the ancient traditional qualities he can make this his preference and choose accordingly. Rates of each architects will also be displayed and if user provide images of land as well as mention his needs they will be getting an initial design.
+
 
 ## Problem Solution
 
