@@ -1,7 +1,9 @@
 import React from "react";
 import styles from "./ArchitectCard.module.css";
+import { useRouter } from "next/router";
 
 function ArchitectCard() {
+  const router = useRouter();
   return (
     <div className={styles.architectcard} data-aos="fade-up">
       <div className={styles.img}>
@@ -32,7 +34,14 @@ function ArchitectCard() {
         </ul>
         <div className={styles.links}>
           <button className={styles.follow}>Follow</button>
-          <button className={styles.view}>View profile</button>
+          <button
+            className={styles.view}
+            onClick={() => {
+              router.push("/architects/1");
+            }}
+          >
+            View profile
+          </button>
         </div>
       </div>
     </div>
