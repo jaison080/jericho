@@ -1,5 +1,7 @@
 # Arch X
 
+![image](https://user-images.githubusercontent.com/93505829/222967645-95c952a5-c1b2-4700-9df0-b853b432000f.png)
+
 ## Live Demo
 
 Link : http://jericho-five.vercel.app
@@ -20,6 +22,13 @@ ArchX will be the first ever platform which is dedicated for architect hiring an
 
 ## 🔧 Project UI:
 
+![Screenshot from 2023-03-05 20-16-07](https://user-images.githubusercontent.com/93505829/222967668-78344fd1-9065-4780-a72c-0a9f17088213.png)
+![Screenshot from 2023-03-05 20-16-14](https://user-images.githubusercontent.com/93505829/222967675-6775c8ad-07b2-4a7c-9e82-9a29ec1b1a72.png)
+![Screenshot from 2023-03-05 20-16-19](https://user-images.githubusercontent.com/93505829/222967691-8f92aba5-6a52-4e7b-b5e3-99de2d77c1e0.png)
+![Screenshot from 2023-03-05 20-16-35](https://user-images.githubusercontent.com/93505829/222967702-a4058b97-6511-4993-acf1-718370fd9461.png)
+![Screenshot from 2023-03-05 20-16-52](https://user-images.githubusercontent.com/93505829/222967715-b7d0251e-1c45-4aca-a8b1-5c8e0aece902.png)
+![Screenshot from 2023-03-05 20-17-05](https://user-images.githubusercontent.com/93505829/222967721-26cefb40-2106-4a88-9561-94b83643d64f.png)
+![Screenshot from 2023-03-05 20-17-10](https://user-images.githubusercontent.com/93505829/222967728-9e3340c5-d4de-404d-98d2-aa097ae49b03.png)
 
 # Steps To Run the Project:
 
