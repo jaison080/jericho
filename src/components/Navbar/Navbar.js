@@ -57,6 +57,14 @@ function Navbar() {
 
         <div className={styles.navbar__links}>
           <div className={styles.login_btn}>Login</div>
+          <div
+            className={styles.login_btn}
+            onClick={() => {
+              router.push("/profile");
+            }}
+          >
+            My Profile
+          </div>
         </div>
       </div>
       <Drawer
@@ -111,6 +119,15 @@ function Navbar() {
 
               <div className={styles.navbar__links_1}>
                 <div className={styles.login_btn_1}>Login</div>
+                <div
+                  className={styles.login_btn}
+                  onClick={() => {
+                    router.push("/profile");
+                    handleDrawerClose();
+                  }}
+                >
+                  My Profile
+                </div>
               </div>
             </div>
           </div>
