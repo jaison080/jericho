@@ -27,6 +27,7 @@
   position: relative;
   transform-style: preserve-3d;
   overflow: hidden;
+  color: #000;
 }
 .architectcard::before,
 .architectcard::after {
@@ -81,8 +82,7 @@
 .stats li h4 {
   font-size: 0.75rem;
 }
-.links
-{
+.links {
   display: flex;
   justify-content: center;
   align-items: center;

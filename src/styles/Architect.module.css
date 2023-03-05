@@ -45,9 +45,16 @@
   font-weight: 700;
   color: #fbcd08;
 }
+.architect_details__info h3 {
+  font-size: 1.3rem;
+  font-family: var(--primary-font);
+  font-weight: 700;
+  color: #fff;
+}
 .architect_details__info p {
   font-size: 1rem;
   font-weight: 400;
+  text-align: center;
   font-family: var(--secondary-font);
   color: #fff;
 }
@@ -76,7 +83,7 @@
   font-size: 1rem;
   font-family: var(--secondary-font);
   padding-left: 3rem;
-  color: #000;
+  color: #000 ;
   background-color: #fbcd08;
   padding: 0.5rem 1rem;
   border-radius: 0.5rem;
@@ -172,6 +179,24 @@
 .architect_details__contact button:hover {
   background-color: #fbcd08;
   color: #000;
+}
+
+
+.followers_container
+{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.followers_container_title
+{
+  font-size: 2rem;
+  font-weight: 700;
+  font-family: var(--primary-font);
+  color: #fbcd08;
 }
 
 @media (max-width: 760px) {

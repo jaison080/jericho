@@ -1,4 +1,5 @@
 import { Navbar } from "@/components";
+import CustomTitle from "@/utils/customTitle";
 import React from "react";
 import { FaFacebook, FaInstagram, FaTwitter, FaYoutube } from "react-icons/fa";
 import styles from "../../styles/Architect.module.css";
@@ -6,6 +7,7 @@ import styles from "../../styles/Architect.module.css";
 function ArchitectDetails() {
   return (
     <>
+      <CustomTitle title="Architect Details" />
       <Navbar />
       <div className={styles.architect_details__container}>
         <h1>Architect Details</h1>
